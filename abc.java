@@ -1,3 +1,5 @@
 main(){
 master
+
+new line
 }
